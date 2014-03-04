@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bowman", "Bowman\Bowman.csproj", "{A42E5F76-65CA-4BB7-9E79-826923DE85AF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A42E5F76-65CA-4BB7-9E79-826923DE85AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A42E5F76-65CA-4BB7-9E79-826923DE85AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A42E5F76-65CA-4BB7-9E79-826923DE85AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A42E5F76-65CA-4BB7-9E79-826923DE85AF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
